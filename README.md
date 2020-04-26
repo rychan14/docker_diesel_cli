@@ -1,0 +1,1 @@
+Dockerfile for building diesel_cli command
